@@ -1,5 +1,4 @@
 // Add your functions here
-
 function mapToNegativize(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
@@ -7,7 +6,7 @@ function mapToNegativize(src) {
   }
   return r
 }
-
+ 
 function mapToNoChange(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
@@ -15,7 +14,7 @@ function mapToNoChange(src) {
   }
   return r
 }
-
+ 
 function mapToDouble(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
@@ -23,7 +22,7 @@ function mapToDouble(src) {
   }
   return r
 }
-
+ 
 function mapToSquare(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
