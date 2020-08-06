@@ -1,8 +1,8 @@
 // Add your functions here
-function map() {
+function map(array, f) {
 
 }
 
-function reduce() {
+function reduce(array, f) {
 
 }
