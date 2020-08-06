@@ -31,6 +31,6 @@ function mapToSquare(src) {
   return r
 }
 
-function map(f) {
+let map = function(f) {
   return f
 }
