@@ -31,6 +31,6 @@ function mapToSquare(src) {
   return r
 }
 
-function map(array, f) {
+function map(f) {
   return f
 }
